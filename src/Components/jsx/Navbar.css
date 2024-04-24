@@ -1,0 +1,14 @@
+
+nav{
+   display: flex;
+   width: 100vw;
+   height: 10vh;
+   justify-content: space-around;
+   align-items: center;
+   background-color: #ffcc13;
+   color: black;
+}
+footer{
+    width: 100vw;
+    height: 7vh;
+}
